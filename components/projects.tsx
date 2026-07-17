@@ -179,7 +179,7 @@ export function Projects() {
                 </span>
               ))}
             </div>
-
+            {/*
             <div className="flex gap-4">
               <a
                 href={project.github}
@@ -191,6 +191,7 @@ export function Projects() {
                 View Code
               </a>
             </div>
+            */}
           </div>
         ))}
       </div>

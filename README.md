@@ -7,7 +7,7 @@
 
 ## 👤 Professional Profile
 
-Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise in data analysis, clustering algorithms, and cloud-based architectures for customer segmentation. Experienced in remote and international work environments with fluent English communication (C1 level) with foreign clients and providers. Knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. Resilient, proactive professional with strong team capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.
+Graduated Information Systems Engineer from Universidad San Ignacio de Loyola with expertise in data analysis, clustering algorithms, and cloud-based architectures for customer segmentation. Experienced in remote and international work environments with fluent English communication with foreign clients and providers. Knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. Resilient, proactive professional with strong team capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.
 
 ---
 
@@ -78,30 +78,30 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 
 ## 💼 Professional Experience
 
-### Agente Bilingüe (Bilingual Agent)
-**Conservice - Teleperformance Perú S.A.C.** | Remote  
+### Bilingual Agent
+**Conservice - Teleperformance Peru S.A.C.** | Remote  
 **Sep 2025 - Apr 2026**
 
 - **Performance Metrics**: Sustained performance indicators with performance bonus recognition throughout employment period
-- **Primary Responsibilities**: 
+- **Primary Responsibilities**:
   - Managed public service activation and transfer processes for residential properties in the United States
   - Followed established protocols and regulatory requirements for multi-state service coordination
-- **International Communication**: 
+- **International Communication**:
   - Fluent English (C1 level) communication with U.S. clients, providers, and government entities
   - Managed complete documentation and case follow-up for each service request
-- **Systems Management**: 
+- **Systems Management**:
   - Operated multiple internal systems simultaneously for provider coordination and service tracking
   - Maintained efficiency in remote work environment across different time zones
-- **Process Automation**: 
+- **Process Automation**:
   - Developed Excel macros to automate repetitive tasks, significantly reducing daily workflow time
   - Optimized data processing and reporting workflows
-- **Quality Assurance**: 
+- **Quality Assurance**:
   - Participated in internal testing of new management system with functional test cases
   - Validated user interface views and user experience flows
   - Provided comprehensive feedback before system launch
 
-### Desarrollador de Software (Software Developer) - Practicum
-**Universidad Peruana Union**  
+### Software Developer - Practicum
+**Peruvian Union University**  
 **Nov 2024 - Dec 2024**
 
 - Developed interactive memory game using vanilla HTML, CSS, and JavaScript
@@ -109,8 +109,8 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 - Packaged and deployed application as cross-platform desktop solution using Electron
 - Created comprehensive project documentation according to client specifications
 
-### Practicante de Sistemas (Systems Practitioner)
-**Academia Chilca Huancayo**  
+### Systems Intern
+**Chilca Huancayo Academy**  
 **Dec 2023 - Mar 2024**
 
 - Developed desktop application for comprehensive academic institution management system
@@ -118,8 +118,8 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 - Provided consulting services in cybersecurity best practices and database administration
 - Assisted in system architecture and technology recommendations
 
-### Recepcionista y Soporte Técnico (Receptionist & Technical Support)
-**Hotel Real Huancayo**  
+### Receptionist & Technical Support
+**Real Huancayo Hotel**  
 **Dec 2022 - Jan 2023**
 
 - Issued electronic invoices and receipts in compliance with government regulations
@@ -127,8 +127,8 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 - Provided general technical support to staff and guests
 - Managed databases using Excel and overseen document digitalization processes
 
-### Asistente Administrativo (Administrative Assistant)
-**Supermercado La Placita Huancayo**  
+### Administrative Assistant
+**La Placita Huancayo Supermarket**  
 **Mar 2022**
 
 - Managed business databases and information systems
@@ -138,8 +138,7 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 
 ## 🚀 Notable Projects
 
-### DevOps - Plataforma StudentRisk para la Prevención de Deserción Universitaria
-**DevOps Platform for University Dropout Prevention**
+### StudentRisk DevOps Platform for University Dropout Prevention
 
 **Technologies**: Scrum, Kanban, Jira, Git, CI/CD, Cloud Infrastructure, MVC Architecture, Machine Learning
 
@@ -156,8 +155,7 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 
 **Technologies Used**: Scrum framework, Kanban methodology, Jira project management, Git version control, CI/CD pipelines, Cloud platforms, Python/JavaScript backend, Database design
 
-### Simulación de Sistemas - Optimización de un Carwash mediante Simulación de Eventos Discretos
-**Systems Simulation - Carwash Operations Optimization**
+### Systems Simulation - Carwash Operations Optimization
 
 **Technologies**: ProModel, Data Analysis, Discrete Event Simulation, Statistical Analysis
 
@@ -175,8 +173,7 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 
 **Technologies Used**: ProModel simulation software, Stat::Fit statistical analysis, Python data processing, Excel reporting
 
-### Juego de Memoria Interactivo
-**Interactive Memory Game Application**
+### Interactive Memory Game Application
 
 **Technologies**: HTML5, CSS3, JavaScript (ES6+), Electron
 
@@ -200,8 +197,8 @@ Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise
 
 ## 🎓 Education
 
-**Ingeniería de Sistemas de Información** (Systems Engineering)  
-Universidad San Ignacio de Loyola (USIL)  
+**Information Systems Engineering**  
+**San Ignacio de Loyola University (USIL)**  
 Peru
 
 ---
@@ -211,7 +208,7 @@ Peru
 | Language | Level | Certification |
 |----------|-------|---------------|
 | Spanish | Native | Native Speaker |
-| English | C1 | Professional Proficiency |
+| English | C2 | Professional Proficiency |
 
 ---
 
@@ -232,8 +229,8 @@ Peru
 
 - **GitHub**: github.com/Seband54
 - **LinkedIn**: linkedin.com/in/sebastian-rivadeneira-6496ab277
-- **Email**: Contact through portfolio website
-- **Location**: Peru
+- **Email**: andre.sebastian54@gmail.com
+- **Location**: Peru, Lima
 
 ---
 
@@ -252,15 +249,15 @@ This professional portfolio is built with modern web technologies:
 | **Deployment** | Vercel |
 
 ### Features
-- ✅ Fully responsive design (mobile-first)
-- ✅ Bilingual interface with language toggle
-- ✅ Professional minimalist aesthetic
-- ✅ Smooth animations and transitions
-- ✅ Complete CV information integration
-- ✅ Project showcase with technology tags
-- ✅ Comprehensive skills matrix
-- ✅ Professional contact section
-- ✅ Dark mode compatible
+- Fully responsive design (mobile-first)
+- Bilingual interface with language toggle
+- Professional minimalist aesthetic
+- Smooth animations and transitions
+- Complete CV information integration
+- Project showcase with technology tags
+- Comprehensive skills matrix
+- Professional contact section
+- Dark mode compatible
 
 ---
 
@@ -293,5 +290,5 @@ Personal portfolio of Sebastian Rivadeneira. All content and projects represent 
 
 ---
 
-**Last Updated**: 2024  
-**Portfolio Version**: 1.0
+**Last Updated**: 2026 
+**Portfolio Version**: 2.0

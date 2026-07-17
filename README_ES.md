@@ -7,7 +7,7 @@
 
 ## 👤 Perfil Profesional
 
-Ingeniero de Sistemas egresado de la Universidad San Ignacio de Loyola, con experiencia en análisis de datos, algoritmos de clustering y arquitecturas en la nube aplicadas a segmentación de clientes. Cuento con experiencia profesional en entornos de trabajo remotos e internacionales, comunicándome en inglés con clientes y proveedores extranjeros (nivel C1). Poseo conocimientos en ciberseguridad bajo la norma ISO/IEC 27001, en el marco de trabajo Scrum y en la cultura DevOps, junto con nociones de aseguramiento de calidad de software. Soy una persona resiliente y proactiva, con capacidad de trabajo en equipo, orientada al desarrollo de soluciones tecnológicas con impacto organizacional y proyección hacia entornos internacionales.
+Ingeniero de Sistemas egresado de la Universidad San Ignacio de Loyola, con experiencia en análisis de datos, algoritmos de clustering y arquitecturas en la nube aplicadas a segmentación de clientes. Cuento con experiencia profesional en entornos de trabajo remotos e internacionales, comunicándome en inglés con clientes y proveedores extranjeros. Poseo conocimientos en ciberseguridad bajo la norma ISO/IEC 27001, en el marco de trabajo Scrum y en la cultura DevOps, junto con nociones de aseguramiento de calidad de software. Soy una persona resiliente y proactiva, con capacidad de trabajo en equipo, orientada al desarrollo de soluciones tecnológicas con impacto organizacional y proyección hacia entornos internacionales.
 
 ---
 
@@ -208,7 +208,7 @@ Perú
 | Idioma | Nivel | Certificación |
 |--------|-------|---------------|
 | Español | Nativo | Hablante Nativo |
-| Inglés | C1 | Competencia Profesional |
+| Inglés | C2 | Competencia Profesional |
 
 ---
 
@@ -229,8 +229,8 @@ Perú
 
 - **GitHub**: github.com/Seband54
 - **LinkedIn**: linkedin.com/in/sebastian-rivadeneira-6496ab277
-- **Correo**: Contacto a través del sitio web del portafolio
-- **Ubicación**: Perú
+- **Correo**: andre.sebastian54@gmail.com
+- **Ubicación**: Perú, Lima
 
 ---
 
@@ -249,15 +249,15 @@ Este portafolio profesional está construido con tecnologías web modernas:
 | **Despliegue** | Vercel |
 
 ### Características
-- ✅ Diseño completamente responsivo (mobile-first)
-- ✅ Interfaz bilingüe con alternador de idioma
-- ✅ Estética profesional minimalista
-- ✅ Animaciones y transiciones suaves
-- ✅ Integración completa de información del CV
-- ✅ Muestra de proyectos con etiquetas de tecnología
-- ✅ Matriz completa de habilidades
-- ✅ Sección de contacto profesional
-- ✅ Compatible con modo oscuro
+- Diseño completamente responsivo (mobile-first)
+- Interfaz bilingüe con alternador de idioma
+- Estética profesional minimalista
+- Animaciones y transiciones suaves
+- Integración completa de información del CV
+- Muestra de proyectos con etiquetas de tecnología
+- Matriz completa de habilidades
+- Sección de contacto profesional
+- Compatible con modo oscuro
 
 ---
 
@@ -290,5 +290,5 @@ Portafolio personal de Sebastian Rivadeneira. Todo el contenido y proyectos repr
 
 ---
 
-**Última Actualización**: 2024  
-**Versión del Portafolio**: 1.0
+**Última Actualización**: 2026
+**Versión del Portafolio**: 2.0

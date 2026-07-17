@@ -14,7 +14,7 @@ export const translations = {
     },
     about: {
       title: 'About Me',
-      content: 'I&apos;m a Systems Engineer graduated from Universidad San Ignacio de Loyola, with expertise in data analysis, clustering, and cloud-based architectures. I have professional experience in remote and international work environments, communicating in advanced English with foreign clients and providers. I hold knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. I&apos;m a resilient and proactive person with strong teamwork capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.',
+      content: 'I\'m a Systems Engineer graduated from Universidad San Ignacio de Loyola, with expertise in data analysis, clustering, and cloud-based architectures. I have professional experience in remote and international work environments, communicating in advanced English with foreign clients and providers. I hold knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. I\'m a resilient and proactive person with strong teamwork capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.',
     },
     skills: {
       title: 'Skills & Technologies',
@@ -44,7 +44,7 @@ export const translations = {
       downloadCV: 'Download CV',
     },
     footer: {
-      copyright: '© 2024 Sebastian Rivadeneira. All rights reserved.',
+      copyright: '© 2026 Sebastian Rivadeneira. All rights reserved.',
     },
   },
   es: {
@@ -92,7 +92,7 @@ export const translations = {
       downloadCV: 'Descargar CV',
     },
     footer: {
-      copyright: '© 2024 Sebastian Rivadeneira. Todos los derechos reservados.',
+      copyright: '© 2026 Sebastian Rivadeneira. Todos los derechos reservados.',
     },
   },
 }
