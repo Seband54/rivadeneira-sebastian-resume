@@ -10,22 +10,16 @@ export function Contact() {
 
   const contactLinks = [
     {
-      icon: Mail,
-      label: t.contact.email,
-      href: 'mailto:sebastian@example.com',
-      value: 'sebastian@example.com',
+      icon: GitBranch,
+      label: language === 'en' ? 'GitHub' : 'GitHub',
+      href: 'https://github.com/Seband54',
+      value: 'github.com/Seband54',
     },
     {
       icon: MapPin,
-      label: t.contact.linkedin,
-      href: 'https://linkedin.com/in/sebastian-rivadeneira',
-      value: 'LinkedIn',
-    },
-    {
-      icon: GitBranch,
-      label: t.contact.github,
-      href: 'https://github.com/sebastian-rivadeneira',
-      value: 'GitHub',
+      label: language === 'en' ? 'LinkedIn' : 'LinkedIn',
+      href: 'https://linkedin.com/in/sebastian-rivadeneira-6496ab277',
+      value: 'sebastian-rivadeneira-6496ab277',
     },
   ]
 

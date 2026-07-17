@@ -9,12 +9,12 @@ export const translations = {
     },
     hero: {
       greeting: "Hi, I'm Sebastian Rivadeneira",
-      subtitle: 'Full Stack Developer | Building digital experiences',
-      description: 'I build modern web applications with a focus on user experience, performance, and clean code. Currently passionate about Next.js, React, and cloud technologies.',
+      subtitle: 'Systems Engineer | Data Analysis, Cloud & Cybersecurity',
+      description: 'Graduated Systems Engineer specializing in data analysis, clustering, and cloud architectures for customer segmentation. I have professional experience in remote and international environments, with advanced English skills for client and vendor communication.',
     },
     about: {
-      title: 'About',
-      content: 'I&apos;m a full-stack developer with 5+ years of experience building web applications. I specialize in creating scalable, maintainable solutions using modern technologies. When I&apos;m not coding, you&apos;ll find me exploring new frameworks or contributing to open-source projects.',
+      title: 'About Me',
+      content: 'I&apos;m a Systems Engineer graduated from Universidad San Ignacio de Loyola, with expertise in data analysis, clustering, and cloud-based architectures. I have professional experience in remote and international work environments, communicating in advanced English with foreign clients and providers. I hold knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. I&apos;m a resilient and proactive person with strong teamwork capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.',
     },
     skills: {
       title: 'Skills & Technologies',
@@ -57,12 +57,12 @@ export const translations = {
     },
     hero: {
       greeting: 'Hola, soy Sebastian Rivadeneira',
-      subtitle: 'Desarrollador Full Stack | Construyendo experiencias digitales',
-      description: 'Construyo aplicaciones web modernas enfocándome en experiencia de usuario, rendimiento y código limpio. Actualmente apasionado por Next.js, React y tecnologías en la nube.',
+      subtitle: 'Ingeniero de Sistemas | Análisis de Datos, Cloud & Ciberseguridad',
+      description: 'Ingeniero de Sistemas egresado con especialización en análisis de datos, clustering y arquitecturas en la nube aplicadas a segmentación de clientes. Cuento con experiencia profesional en entornos remotos e internacionales, con habilidades avanzadas en inglés para comunicación con clientes y proveedores extranjeros.',
     },
     about: {
-      title: 'Acerca de',
-      content: 'Soy un desarrollador full-stack con más de 5 años de experiencia construyendo aplicaciones web. Me especializo en crear soluciones escalables y mantenibles usando tecnologías modernas. Cuando no estoy programando, me encontrarás explorando nuevos frameworks o contribuyendo a proyectos de código abierto.',
+      title: 'Acerca de Mí',
+      content: 'Soy Ingeniero de Sistemas egresado de la Universidad San Ignacio de Loyola, con experiencia en análisis de datos, clustering y arquitecturas en la nube. Tengo experiencia profesional en entornos de trabajo remotos e internacionales, comunicándome en inglés avanzado con clientes y proveedores extranjeros. Cuento con conocimientos en ciberseguridad bajo la norma ISO/IEC 27001, en el marco de trabajo Scrum y en la cultura DevOps, junto con nociones de aseguramiento de calidad de software. Soy una persona resiliente y proactiva, con capacidad de trabajo en equipo, orientada al desarrollo de soluciones tecnológicas con impacto organizacional y proyección hacia entornos internacionales.',
     },
     skills: {
       title: 'Habilidades y Tecnologías',

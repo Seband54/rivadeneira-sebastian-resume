@@ -1,140 +1,297 @@
-# Sebastian Rivadeneira Resume Portfolio
+# Sebastian Andree Rivadeneira Rodriguez - Professional Portfolio
 
-A modern, bilingual (English/Spanish) portfolio website showcasing Sebastian Rivadeneira's full-stack development experience, skills, and projects.
+**Ingeniero de Sistemas de Información | Systems Engineer**  
+**Specialization: Data Analysis, Cloud Architecture & Cybersecurity**
 
-## Features
+---
 
-- **Bilingual Interface**: Seamlessly switch between English and Spanish with a simple toggle in the header
-- **Responsive Design**: Mobile-first design that looks great on all devices
-- **Minimalist Aesthetic**: Clean, professional design with generous whitespace and subtle animations
-- **Smooth Scrolling Navigation**: Easy navigation to different sections (About, Skills, Experience, Projects, Contact)
-- **Profile Image**: Professional profile photo integrated at the top
-- **Skills Grid**: Categorized tech skills (Frontend, Backend, Databases, Tools & DevOps)
-- **Experience Timeline**: Detailed work history with descriptions
-- **Project Showcase**: Portfolio projects with technology tags and links
-- **Contact Section**: Multiple contact methods and CV download options
-- **Dark Mode Ready**: Optimized for both light and dark themes
+## 👤 Professional Profile
 
-## Tech Stack
+Graduated Systems Engineer from Universidad San Ignacio de Loyola with expertise in data analysis, clustering algorithms, and cloud-based architectures for customer segmentation. Experienced in remote and international work environments with fluent English communication (C1 level) with foreign clients and providers. Knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. Resilient, proactive professional with strong team capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.
 
-- **Framework**: Next.js 16 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4 with custom design tokens
-- **UI Components**: Shadcn/ui with Lucide React icons
-- **State Management**: React Context for language switching
-- **Font**: Inter (Google Fonts)
+---
 
-## Project Structure
+## 🛠️ Technical Skills
 
-```
-├── app/
-│   ├── layout.tsx          # Root layout with metadata
-│   ├── page.tsx            # Main page with component composition
-│   ├── globals.css         # Global styles and design tokens
-│   └── providers.tsx       # Language context provider
-├── components/
-│   ├── header.tsx          # Navigation header with language toggle
-│   ├── hero.tsx            # Hero section with profile info
-│   ├── about.tsx           # About section
-│   ├── skills.tsx          # Skills and technologies grid
-│   ├── experience.tsx      # Work experience timeline
-│   ├── projects.tsx        # Portfolio projects showcase
-│   ├── contact.tsx         # Contact information and CV download
-│   └── footer.tsx          # Footer with social links
-├── lib/
-│   └── translations.ts     # Bilingual content strings
-└── public/
-    └── profile.jpg         # Profile photograph
-```
+### Frontend Development
+- **Languages & Markup**: HTML, CSS, JavaScript
+- **Frameworks**: React, Next.js
+- **UI Framework**: Bootstrap
 
-## Design Tokens
+### Backend & Applications
+- **Languages**: PHP, Java, Python
+- **Frameworks**: Spring (Java), FastAPI, Electron
+- **Architecture**: MVC (Model-View-Controller)
+- **Build Tools**: Maven
 
-The portfolio uses a professional, minimalist color palette:
+### Databases
+- **Relational**: MySQL, Oracle
+- **Cloud**: Supabase
 
-- **Background**: Pure White (`oklch(1 0 0)`)
-- **Foreground**: Deep Navy (`oklch(0.11 0 0)`)
-- **Card**: Light Gray (`oklch(0.98 0 0)`)
-- **Border**: Very Light Gray (`oklch(0.93 0 0)`)
-- **Muted**: Medium Gray (`oklch(0.65 0 0)`)
-- **Accent**: Deep Navy (`oklch(0.11 0 0)`)
+### Cloud & DevOps
+- **Containerization**: Docker, Docker Compose
+- **Data Science Tools**: Streamlit, MLflow
+- **Cloud Platforms**: Vercel, Render
+- **Version Control**: GitHub
+- **CI/CD**: Continuous Integration & Continuous Deployment
+- **DevOps Practices**: Infrastructure as Code, Automated Pipelines
 
-## Getting Started
+### Data Analysis & Clustering
+- **Languages**: Python
+- **Libraries**: pandas, NumPy, scikit-learn, SciPy
+- **Clustering Algorithms**: 
+  - K-Means
+  - K-Means++
+  - DBSCAN
+  - Agglomerative Clustering
+- **Validation Metrics**: Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz
 
-### Installation
+### Quality Assurance & Testing
+- **Test Automation**: Selenium IDE, UI.Vision RPA
+- **Performance Testing**: Apache JMeter
+- **Security Testing**: OWASP ZAP
+- **Performance Monitoring**: Lighthouse, Chrome DevTools
+- **Functional & UI Testing**: Manual and automated testing
 
-```bash
-# Install dependencies
-pnpm install
+### Cybersecurity
+- **Standards**: ISO/IEC 27001 Information Security Management
+- **Access Control**: Role-Based Access Control (RBAC)
+- **Authentication**: Multi-Factor Authentication (MFA)
+- **Security Models**: Zero Trust Architecture
 
-# Run the development server
-pnpm dev
-```
+### Systems Simulation & Optimization
+- **Simulation Tools**: ProModel
+- **Statistical Analysis**: Stat::Fit
+- **Discrete Event Simulation**: Process optimization and analysis
 
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio in your browser.
+### Project Management & Agile
+- **Frameworks**: Scrum, Kanban
+- **Tools**: Jira
+- **Methodologies**: Design Thinking, Lean Startup
+- **Practices**: Sprint planning, backlog management, user story creation
 
-### Building for Production
+### Office & Business Automation
+- **Excel**: Advanced formulas, Data analysis, Macro automation
+- **Document Management**: Electronic document issuance
 
-```bash
-# Build the project
-pnpm build
+---
 
-# Start the production server
-pnpm start
-```
+## 💼 Professional Experience
 
-## Customization
+### Agente Bilingüe (Bilingual Agent)
+**Conservice - Teleperformance Perú S.A.C.** | Remote  
+**Sep 2025 - Apr 2026**
 
-### Update Personal Information
+- **Performance Metrics**: Sustained performance indicators with performance bonus recognition throughout employment period
+- **Primary Responsibilities**: 
+  - Managed public service activation and transfer processes for residential properties in the United States
+  - Followed established protocols and regulatory requirements for multi-state service coordination
+- **International Communication**: 
+  - Fluent English (C1 level) communication with U.S. clients, providers, and government entities
+  - Managed complete documentation and case follow-up for each service request
+- **Systems Management**: 
+  - Operated multiple internal systems simultaneously for provider coordination and service tracking
+  - Maintained efficiency in remote work environment across different time zones
+- **Process Automation**: 
+  - Developed Excel macros to automate repetitive tasks, significantly reducing daily workflow time
+  - Optimized data processing and reporting workflows
+- **Quality Assurance**: 
+  - Participated in internal testing of new management system with functional test cases
+  - Validated user interface views and user experience flows
+  - Provided comprehensive feedback before system launch
 
-Edit the translation strings in `lib/translations.ts` to update:
-- Name and title
-- Bio and description
-- Skills and technologies
-- Work experience
-- Projects
-- Contact information
+### Desarrollador de Software (Software Developer) - Practicum
+**Universidad Peruana Union**  
+**Nov 2024 - Dec 2024**
 
-### Change Profile Image
+- Developed interactive memory game using vanilla HTML, CSS, and JavaScript
+- Implemented game logic with complete functionality and user interface
+- Packaged and deployed application as cross-platform desktop solution using Electron
+- Created comprehensive project documentation according to client specifications
 
-Replace the profile image URL in `components/hero.tsx` with your own image URL.
+### Practicante de Sistemas (Systems Practitioner)
+**Academia Chilca Huancayo**  
+**Dec 2023 - Mar 2024**
 
-### Modify Colors
+- Developed desktop application for comprehensive academic institution management system
+- Implemented WhatsApp business chatbot for institutional query support and customer service
+- Provided consulting services in cybersecurity best practices and database administration
+- Assisted in system architecture and technology recommendations
 
-Update the design tokens in `app/globals.css`:
-- Change the oklch color values to match your preferred palette
-- Update the `--radius` value for different border radius
+### Recepcionista y Soporte Técnico (Receptionist & Technical Support)
+**Hotel Real Huancayo**  
+**Dec 2022 - Jan 2023**
 
-### Add New Sections
+- Issued electronic invoices and receipts in compliance with government regulations
+- Implemented VPN network infrastructure for secure remote access
+- Provided general technical support to staff and guests
+- Managed databases using Excel and overseen document digitalization processes
 
-1. Create a new component in `components/`
-2. Add translations to `lib/translations.ts`
-3. Import and add the component to `app/page.tsx`
+### Asistente Administrativo (Administrative Assistant)
+**Supermercado La Placita Huancayo**  
+**Mar 2022**
 
-## Deployment
+- Managed business databases and information systems
+- Issued electronic documentation and receipts
 
-The portfolio is optimized for deployment on Vercel:
+---
 
-```bash
-# Deploy to Vercel (requires Vercel CLI)
-vercel deploy
-```
+## 🚀 Notable Projects
 
-Alternatively, you can deploy to any Node.js hosting service that supports Next.js applications.
+### DevOps - Plataforma StudentRisk para la Prevención de Deserción Universitaria
+**DevOps Platform for University Dropout Prevention**
 
-## Features to Consider
+**Technologies**: Scrum, Kanban, Jira, Git, CI/CD, Cloud Infrastructure, MVC Architecture, Machine Learning
 
-- Add more projects with live demos
-- Integrate a contact form with email notifications
-- Add blog or articles section
-- Implement dark mode toggle (currently follows system preference)
-- Add PDF CV files for download
-- Add more social media links
-- Implement SEO optimizations
+**Overview**: Web platform designed for early detection of student dropout risk, developed under Design Thinking and Lean Startup methodologies within Scrum and Kanban frameworks, implemented using DevOps lifecycle practices.
 
-## License
+**Key Achievements**:
+- **Project Management**: Backlog organized in Jira with epics and user stories distributed across multiple sprints
+- **Collaborative Development**: Implemented with rotative Scrum Master responsibility and feature branch development strategy
+- **Version Control & Integration**: Used Git branches with continuous integration to main branch, ensuring code quality
+- **Backend Development**: Developed business logic, user authentication, and database connectivity collaboratively
+- **AI/ML Integration**: Implemented risk evaluation engine with machine learning module applied to academic data
+- **UI/UX Design**: Created interface prototypes for Model-View-Controller architecture
+- **Cloud Deployment**: Continuous deployment to cloud infrastructure ensuring scalability
 
-This portfolio is personal to Sebastian Rivadeneira. Feel free to use this as a template for your own portfolio.
+**Technologies Used**: Scrum framework, Kanban methodology, Jira project management, Git version control, CI/CD pipelines, Cloud platforms, Python/JavaScript backend, Database design
 
-## Support
+### Simulación de Sistemas - Optimización de un Carwash mediante Simulación de Eventos Discretos
+**Systems Simulation - Carwash Operations Optimization**
 
-For questions or suggestions, contact through the portfolio's contact section.
+**Technologies**: ProModel, Data Analysis, Discrete Event Simulation, Statistical Analysis
+
+**Overview**: Developed comprehensive discrete event simulation model to propose operational improvements for carwash service operations.
+
+**Key Achievements**:
+- **Data Collection**: Collected real-world operational data from carwash processes
+- **Data Processing**: Cleaned and analyzed data for accuracy and validity
+- **Model Development**: Built discrete event simulation model capturing all operational processes
+- **Scenario Analysis**: Compared multiple operational scenarios and configurations
+- **Results Evaluation**: Evaluated simulation results using statistical metrics
+- **Optimization**: Proposed specific operational improvements based on simulation findings
+
+**Impact**: Identified bottlenecks, proposed staffing adjustments, and equipment optimization strategies resulting in efficiency improvements
+
+**Technologies Used**: ProModel simulation software, Stat::Fit statistical analysis, Python data processing, Excel reporting
+
+### Juego de Memoria Interactivo
+**Interactive Memory Game Application**
+
+**Technologies**: HTML5, CSS3, JavaScript (ES6+), Electron
+
+**Overview**: Interactive memory card game with responsive design and desktop deployment capability.
+
+**Features**:
+- Complete game mechanics with vanilla JavaScript
+- Responsive user interface optimized for various screen sizes
+- Score tracking and game statistics
+- Sound effects and visual feedback
+- Desktop application packaging via Electron
+
+**Development Process**:
+- Built from scratch using HTML5 semantic markup
+- Implemented game logic with pure JavaScript (no frameworks)
+- Responsive CSS design for mobile and desktop compatibility
+- Packaged as standalone desktop application using Electron
+- Comprehensive project documentation and user guides
+
+---
+
+## 🎓 Education
+
+**Ingeniería de Sistemas de Información** (Systems Engineering)  
+Universidad San Ignacio de Loyola (USIL)  
+Peru
+
+---
+
+## 🌐 Languages
+
+| Language | Level | Certification |
+|----------|-------|---------------|
+| Spanish | Native | Native Speaker |
+| English | C1 | Professional Proficiency |
+
+---
+
+## 📋 Certifications & Standards Knowledge
+
+- ISO/IEC 27001 Information Security Management System
+- Role-Based Access Control (RBAC) Implementation
+- Multi-Factor Authentication (MFA) Deployment
+- Zero Trust Security Architecture
+- Design Thinking Methodology
+- Lean Startup Framework
+- Scrum Agile Framework
+- Kanban Methodology
+
+---
+
+## 🔗 Digital Presence
+
+- **GitHub**: github.com/Seband54
+- **LinkedIn**: linkedin.com/in/sebastian-rivadeneira-6496ab277
+- **Email**: Contact through portfolio website
+- **Location**: Peru
+
+---
+
+## 💻 Portfolio Website
+
+This professional portfolio is built with modern web technologies:
+
+| Technology | Details |
+|-----------|---------|
+| **Framework** | Next.js 16 with App Router |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS v4 with semantic design tokens |
+| **Internationalization** | Bilingual (English/Spanish) with React Context |
+| **UI Components** | Lucide React icons |
+| **Fonts** | Inter (Google Fonts) |
+| **Deployment** | Vercel |
+
+### Features
+- ✅ Fully responsive design (mobile-first)
+- ✅ Bilingual interface with language toggle
+- ✅ Professional minimalist aesthetic
+- ✅ Smooth animations and transitions
+- ✅ Complete CV information integration
+- ✅ Project showcase with technology tags
+- ✅ Comprehensive skills matrix
+- ✅ Professional contact section
+- ✅ Dark mode compatible
+
+---
+
+## 📊 Project Statistics
+
+- **Years of Experience**: Professional and educational experience in software development
+- **Programming Languages**: 7+ (HTML, CSS, JavaScript, PHP, Java, Python, and others)
+- **Cloud Platforms**: 3+ (Vercel, Render, various AWS services)
+- **Databases**: 3+ (MySQL, Oracle, Supabase)
+- **Framework Expertise**: Multiple frameworks across frontend, backend, and DevOps
+- **Project Categories**: Web Applications, Desktop Applications, Data Analysis, Systems Simulation, Cloud Infrastructure
+
+---
+
+## 🎯 Core Competencies
+
+1. **Data Analysis & Science**: Advanced clustering, data visualization, statistical analysis
+2. **Cloud Architecture**: Docker containerization, CI/CD pipelines, DevOps practices
+3. **Cybersecurity**: ISO/IEC 27001 compliance, access control, security architecture
+4. **Full Stack Development**: End-to-end web application development
+5. **Project Management**: Scrum/Kanban, team leadership, stakeholder communication
+6. **Systems Optimization**: Process improvement through simulation and analysis
+7. **International Collaboration**: Remote work, multilingual communication, global teams
+
+---
+
+## 📝 License
+
+Personal portfolio of Sebastian Rivadeneira. All content and projects represent professional work and intellectual property.
+
+---
+
+**Last Updated**: 2024  
+**Portfolio Version**: 1.0
