@@ -2,13 +2,25 @@
 
 import { useLanguage } from '@/app/providers'
 import { translations } from '@/lib/translations'
-import { Mail, MapPin, GitBranch, Download } from 'lucide-react'
+import { Mail, Phone, MapPin, GitBranch, Download } from 'lucide-react'
 
 export function Contact() {
   const { language } = useLanguage()
   const t = translations[language]
 
   const contactLinks = [
+    {
+      icon: Mail,
+      label: language === 'en' ? 'Email' : 'Correo',
+      href: 'mailto:andre.sebastian54@gmail.com',
+      value: 'andre.sebastian54@gmail.com',
+    },
+    {
+      icon: Phone,
+      label: language === 'en' ? 'Phone' : 'Teléfono',
+      href: 'tel:+51928643326',
+      value: '+51 928 643 326',
+    },
     {
       icon: GitBranch,
       label: language === 'en' ? 'GitHub' : 'GitHub',
