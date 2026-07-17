@@ -2,7 +2,7 @@
 
 import { useLanguage } from '@/app/providers'
 import { translations } from '@/lib/translations'
-import { Mail, MapPin, GitBranch, Download } from 'lucide-react'
+import { Mail, Phone, MapPin, GitBranch, Download } from 'lucide-react'
 
 export function Contact() {
   const { language } = useLanguage()
@@ -11,21 +11,27 @@ export function Contact() {
   const contactLinks = [
     {
       icon: Mail,
-      label: t.contact.email,
-      href: 'mailto:sebastian@example.com',
-      value: 'sebastian@example.com',
+      label: language === 'en' ? 'Email' : 'Correo',
+      href: 'mailto:andre.sebastian54@gmail.com',
+      value: 'andre.sebastian54@gmail.com',
     },
     {
-      icon: MapPin,
-      label: t.contact.linkedin,
-      href: 'https://linkedin.com/in/sebastian-rivadeneira',
-      value: 'LinkedIn',
+      icon: Phone,
+      label: language === 'en' ? 'Phone' : 'Teléfono',
+      href: 'tel:+51928643326',
+      value: '+51 928 643 326',
     },
     {
       icon: GitBranch,
-      label: t.contact.github,
-      href: 'https://github.com/sebastian-rivadeneira',
-      value: 'GitHub',
+      label: language === 'en' ? 'GitHub' : 'GitHub',
+      href: 'https://github.com/Seband54',
+      value: 'github.com/Seband54',
+    },
+    {
+      icon: MapPin,
+      label: language === 'en' ? 'LinkedIn' : 'LinkedIn',
+      href: 'https://linkedin.com/in/sebastian-rivadeneira-6496ab277',
+      value: 'sebastian-rivadeneira-6496ab277',
     },
   ]
 

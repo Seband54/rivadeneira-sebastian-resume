@@ -38,7 +38,7 @@ export function Hero() {
         </div>
 
         <div className="flex justify-center md:justify-end">
-          <div className="relative w-48 h-48 sm:w-56 sm:h-56 rounded-sm overflow-hidden border border-border">
+          <div className="relative w-48 h-48 sm:w-56 sm:h-56 rounded-full overflow-hidden border border-border shadow-md">
             <Image
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/FotoCv-ZNR961BASQjbLEiuJUCLDcauJNK7kw.jpg"
               alt="Sebastian Rivadeneira"
