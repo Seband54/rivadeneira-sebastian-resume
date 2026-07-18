@@ -1,13 +1,13 @@
-# Sebastian Andree Rivadeneira Rodriguez - Professional Portfolio
+# Sebastian Andree Rivadeneira Rodriguez - Portfolio
 
-**Ingeniero de Sistemas de Información | Systems Engineer**  
+**Information Systems Engineer**  
 **Specialization: Data Analysis, Cloud Architecture & Cybersecurity**
 
 ---
 
 ## 👤 Professional Profile
 
-Graduated Information Systems Engineer from Universidad San Ignacio de Loyola with expertise in data analysis, clustering algorithms, and cloud-based architectures for customer segmentation. Experienced in remote and international work environments with fluent English communication with foreign clients and providers. Knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. Resilient, proactive professional with strong team capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.
+Graduated Information Systems Engineer from San Ignacio de Loyola University, Lima, Peru, with expertise in data analysis, clustering algorithms, and cloud-based architectures for customer segmentation. Experienced in remote and international work environments with fluent English communication with foreign clients and providers. Knowledge in cybersecurity under ISO/IEC 27001 standards, Scrum framework, DevOps culture, and software quality assurance. Resilient, proactive professional with strong team capabilities, focused on developing technological solutions with organizational impact and projection toward international environments.
 
 ---
 

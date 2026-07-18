@@ -66,23 +66,27 @@ export function Contact() {
           <div className="p-6 border border-border rounded-sm bg-card">
             <p className="text-sm text-foreground/70 mb-4">
               {language === 'en'
-                ? 'Download my CV to learn more about my experience and qualifications.'
-                : 'Descarga mi CV para saber más sobre mi experiencia y calificaciones.'}
+                ? 'Download my Resume to learn more about my experience and qualifications.'
+                : 'Descarga mi Currículum para saber más sobre mi experiencia y calificaciones.'}
             </p>
             <div className="flex gap-3">
               <a
-                href="/cv-en.pdf"
+                href="/documents/RivadeneiraSebastian_Resume.pdf"
+                download
+                aria-label={language === 'en' ? 'Download resume in English' : 'Descargar currículum en inglés'}
                 className="flex items-center gap-2 px-4 py-2 bg-foreground text-background rounded-sm font-medium hover:opacity-90 transition-opacity text-sm"
               >
                 <Download className="w-4 h-4" />
-                {language === 'en' ? 'CV English' : 'CV Inglés'}
+                {language === 'en' ? 'Resume (EN)' : 'CV Inglés'}
               </a>
               <a
-                href="/cv-es.pdf"
+                href="/documents/RivadeneiraSebastian_Curriculum.pdf"
+                download
+                aria-label={language === 'en' ? 'Download resume in Spanish' : 'Descargar currículum en español'}
                 className="flex items-center gap-2 px-4 py-2 border border-foreground text-foreground rounded-sm font-medium hover:bg-foreground/5 transition-colors text-sm"
               >
                 <Download className="w-4 h-4" />
-                {language === 'en' ? 'CV Spanish' : 'CV Español'}
+                {language === 'en' ? 'Resume (ES)' : 'CV Español'}
               </a>
             </div>
           </div>

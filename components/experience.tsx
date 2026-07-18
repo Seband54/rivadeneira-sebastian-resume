@@ -6,10 +6,10 @@ import { translations } from '@/lib/translations'
 const experienceData = {
   en: [
     {
-      title: 'Bilingual Agent',
+      title: 'Bilingual Agent and Tester',
       company: 'Conservice - Teleperformance Peru S.A.C.',
       period: 'Sep. 2025 - Apr. 2026',
-      description: 'Sustained performance indicators and received performance bonus. Managed public service activation and transfer processes for U.S. residential properties. Advanced English communication with clients and U.S. entities. Developed Excel macros to automate repetitive tasks. Participated in internal testing of new management system with functional testing and UX evaluation.',
+      description: 'Sustained performance indicators. Managed public service activation and transfer processes for U.S. residential properties. Advanced English communication with clients and U.S. entities. Developed Excel macros to automate repetitive tasks. Participated in internal testing of new management system with functional testing and UX evaluation.',
       details: [
         'Sustained performance indicators with bonus recognition',
         'Public service activation and transfer process management for U.S. properties',
@@ -21,7 +21,7 @@ const experienceData = {
     },
     {
       title: 'Software Developer',
-      company: 'Universidad Peruana Union',
+      company: 'Peruvian Union University',
       period: 'Nov. 2024 - Dec. 2024',
       description: 'Developed an interactive memory card game utilizing vanilla HTML, CSS, and JavaScript with complete game mechanics and responsive design. Successfully packaged and deployed the application as a cross-platform desktop solution using Electron framework. Created comprehensive project documentation meeting all client specifications and requirements.',
       details: [
@@ -34,7 +34,7 @@ const experienceData = {
     },
     {
       title: 'Systems Practitioner',
-      company: 'Academia Chilca Huancayo',
+      company: 'Chilca Huancayo Academy',
       period: 'Dec. 2023 - Mar. 2024',
       description: 'Developed a comprehensive desktop application for academic institution management system handling student data, courses, and administrative operations. Implemented WhatsApp business chatbot integration for institutional query support and customer service automation. Provided strategic consulting in cybersecurity best practices and database administration.',
       details: [
@@ -47,7 +47,7 @@ const experienceData = {
     },
     {
       title: 'Receptionist & Technical Support',
-      company: 'Hotel Real Huancayo',
+      company: 'Real Huancayo Hotel',
       period: 'Dec. 2022 - Jan. 2023',
       description: 'Managed front-desk operations including issuance of electronic invoices and receipts in compliance with government regulations. Implemented VPN network infrastructure for secure guest and staff connectivity. Provided technical support to staff and guests while maintaining databases and overseeing document digitalization processes.',
       details: [
@@ -60,7 +60,7 @@ const experienceData = {
     },
     {
       title: 'Administrative Assistant',
-      company: 'Supermercado La Placita Huancayo',
+      company: 'La Placita Huancayo Supermarket',
       period: 'Mar. 2022',
       description: 'Managed business databases and maintained accurate information systems. Handled electronic document issuance and maintained compliance with regulatory requirements for commercial transactions.',
       details: [
@@ -72,10 +72,10 @@ const experienceData = {
   ],
   es: [
     {
-      title: 'Agente Bilingüe',
+      title: 'Agente Bilingüe y Tester',
       company: 'Conservice - Teleperformance Perú S.A.C.',
       period: 'Set. 2025 - Abr. 2026',
-      description: 'Cumplimiento sostenido de indicadores de desempeño con reconocimiento de bono. Gestión de procesos de activación y transferencia de servicios públicos para propiedades residenciales en Estados Unidos. Comunicación en inglés avanzado con clientes y entidades estadounidenses. Desarrollo de macros en Excel para automatización. Participación en testing del nuevo sistema de gestión.',
+      description: 'Cumplimiento sostenido de indicadores de desempeño. Gestión de procesos de activación y transferencia de servicios públicos para propiedades residenciales en Estados Unidos. Comunicación en inglés avanzado con clientes y entidades estadounidenses. Desarrollo de macros en Excel para automatización. Participación en testing del nuevo sistema de gestión.',
       details: [
         'Cumplimiento sostenido de indicadores con bono de rendimiento',
         'Gestión de procesos de activación y transferencia de servicios',
